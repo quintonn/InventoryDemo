@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+packages/
+Logs/
+InventorySystem.csproj.user
